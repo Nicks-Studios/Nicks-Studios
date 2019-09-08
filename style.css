@@ -1,5 +1,5 @@
 :root {
-  --blue: #007bff;
+  --blue:  #D18573;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -12,7 +12,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #f4623a;
+  --primary: #D18573;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -2603,13 +2603,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #D18573;
+  border-color: #3aaaf4;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
+  background-color: #D18573;
   border-color: #ee3e0d;
 }
 
