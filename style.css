@@ -149,14 +149,14 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #e3d4d4;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #d6370c;
-  text-decoration: underline;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 a:not([href]):not([tabindex]) {
@@ -10623,13 +10623,13 @@ hr.light {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
+    color: #000000;
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: rgba(255, 255, 255, 0.7);
+    color: #000000;
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
