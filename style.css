@@ -1,5 +1,5 @@
 :root {
-  --blue:  #D18573;
+  --blue:  #BB7260;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -12,7 +12,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #D18573;
+  --primary: #BB7260;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -2603,13 +2603,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #D18573;
+  background-color: #BB7260;
   border-color: #3aaaf4;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #D18573;
+  background-color: #BB7260;
   border-color: #ee3e0d;
 }
 
@@ -6904,13 +6904,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #D18573 !important;
+  background-color: #BB7260 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #D18573 !important;
+  background-color: #BB7260 !important;
 }
 
 .bg-secondary {
@@ -10556,13 +10556,13 @@ html {
 }
 
 .text-white-75 {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.95);
 }
 
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #D18573;
+  border-color: #BB7260;
 }
 
 hr.light {
