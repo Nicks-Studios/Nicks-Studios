@@ -29,6 +29,15 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+nav {
+  background-color: #BB7260 !important;
+  position: fixed !important;
+  width: 100%;
+  z-index: 1 !important;
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link  {
+  color: white !important;
+}
 *,
 *::before,
 *::after {
