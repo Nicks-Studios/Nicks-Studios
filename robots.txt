@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /*
+Allow: /index.html
+
+Sitemap: https://www.nicksstudios.com/sitemap.xml
